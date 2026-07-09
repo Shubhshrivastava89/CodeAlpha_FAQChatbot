@@ -251,13 +251,11 @@ Completed Successfully ✅
 
 # 👨‍💻 Author
 
-## Akarsh Kumar
+## Shubh Shrivastava
 
 B.Tech Student | AI & Data Science Enthusiast
 
-🔗 GitHub: https://github.com/YOUR_USERNAME
-
-🔗 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+🔗 GitHub: https://github.com/Shubhshrivastava89/
 
 ---
 
