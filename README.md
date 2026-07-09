@@ -48,7 +48,7 @@ https://your-app-name.streamlit.app
 
 ## 💬 Chatbot Conversation
 
-![Chatbot Conversation](assets/chat.png)
+![Chatbot Conversation](assets/chats.png)
 
 ---
 
